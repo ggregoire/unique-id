@@ -1,4 +1,4 @@
-html-id
-=======
-
-Counts the number of occurrences of your HTML ids and classes.
+Unique id?
+==========
+* Counts the number of occurrences of your HTML ids and classes.
+* Checks if each id is unique.
