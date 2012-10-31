@@ -6,7 +6,7 @@ html, body, div, span, object, iframe, h2, h3, h4, h5, h6, p, blockquote, pre, a
     font-size: 100%;
     vertical-align: baseline;
     font: bold 14px/27px Arial,sans-serif !important;
-    line-height = 1;
+    line-height: 1;
 }
 
 #header { width: 610px; margin: 40px auto; }
@@ -20,7 +20,7 @@ line-height: 29px;
 min-width: 54px;
 padding: 1px 8px; }
 #code { display: none; }
-table { margin: 100px auto; width: 606px; color: #495155; font-weight: bold; box-shadow: 0 0 1px  #495155; }
+table { margin: 100px auto; width: 606px; color: #495155; font-weight: bold; box-shadow: 0 0 1px  #495155; border-collapse: collapse; border-spacing: 0; }
 tr td:first-child { width: 500px; text-align: right; }
 tr td:last-child { width: 110px; color: #EA2E49; text-align: center; }
 tr.even td { background: rgba(250,250,250,0.7); }
